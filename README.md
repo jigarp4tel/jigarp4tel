@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   
 ## 🚀 About Me
 I’m an aspiring software developer, geek and enthusiast who loves to solve problems and fix things with technology. 
+I’m currently learning React in depth.
   
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jigarp4tel.github.io//)
