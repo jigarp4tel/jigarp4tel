@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   
 ## 🚀 About Me
-I’m an aspiring software developer, geek and enthusiast who loves to solve problems and fix things with technology.\
+I’m an aspiring software developer, geek and enthusiast who loves to solve problems and fix things with technology.
 
 
 ## 🔗 Links
