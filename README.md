@@ -26,6 +26,8 @@ I’m interested in building apps and websites that look good, and make people's
 
 - 🛠 Backend:
   - Java + Spring Boot
+  - C# + .NET Core
+  - Node + Express
   - Postgres + MySQL
  
 
