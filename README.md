@@ -11,8 +11,6 @@
 I’m a software developer, geek and enthusiast who loves to solve problems and fix things with technology.
 I’m interested in building apps and websites that look good, and make people's lives easier. I love learning new things, and solving problems!
 
-- 🌱 I’m currently learning React
-
 
 
 ---
@@ -21,6 +19,7 @@ I’m interested in building apps and websites that look good, and make people's
 
 - 🖥️ Frontend:
   - React
+  - Angular
   - HTML/CSS/JS
   - Bootstrap
 
