@@ -18,7 +18,6 @@
 
 - 🛠 Backend:
   - Java + Spring Boot
-  - C# + .NET Core
   - Node + Express
   - Postgres + MySQL
  
